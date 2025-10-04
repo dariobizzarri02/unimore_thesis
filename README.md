@@ -1,5 +1,4 @@
-# Progettazione e sviluppo di
-infrastruttura cloud su AWS
+# Progettazione e sviluppo di infrastruttura cloud su AWS
 
 Lo sviluppo di software moderno richiede spesso la presenza di numerosi componenti che
 devono interagire tra di loro, e ciascuno di questi componenti comporta necessità ulteriori
